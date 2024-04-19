@@ -1,0 +1,26 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "test1",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllannDs/Teste-Repositorio.git"
+  },
+  "keywords": [
+    "dsrocha"
+  ],
+  "author": "Ds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllannDs/Teste-Repositorio/issues"
+  },
+  "homepage": "https://github.com/AllannDs/Teste-Repositorio#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
